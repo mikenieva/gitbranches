@@ -182,7 +182,7 @@ body {
 .reveal video,
 .reveal iframe {
 	max-width: 95%;
-	max-height: 95%;
+	max-height: 53%;
 }
 
 /** Prevents layering issues in certain browser/transition combinations */
